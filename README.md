@@ -16,5 +16,5 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Website - [Iryna](https://github.com/Web-Designa)
+- Website - [Iryna](https://web-designa.github.io/Pricing-component-with-toggle/index.html)
 - Frontend Mentor - [@Web-Designa](https://www.frontendmentor.io/profile/Web-Designa)

@@ -6,5 +6,4 @@ design/
 # ignore files in folder docs with certain file extension (.txt)
 # doc/*.txt
 
-
 style-guide.md
