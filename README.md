@@ -5,17 +5,17 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Web-Designa/Pricing-component-with-toggle)
+- Live Site URL: [Add live site URL here](https://web-designa.github.io/Pricing-component-with-toggle/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+- JavaScript
 
 ## Author
 
-- Website - [Iryna](https://web-designa.github.io/Pricing-component-with-toggle/index.html)
+- Website - [Iryna](https://github.com/Web-Designa)
 - Frontend Mentor - [@Web-Designa](https://www.frontendmentor.io/profile/Web-Designa)
