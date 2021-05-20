@@ -208,3 +208,14 @@ input:checked + .slider:before {
     margin-top: 30px;
   }
 }
+
+hr {
+  opacity: 30%;
+  border: 0;
+  height: 1px;
+  background: hsl(234, 14%, 74%);
+}
+
+.primary hr {
+  background: #fff;
+}
