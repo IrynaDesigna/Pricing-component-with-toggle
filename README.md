@@ -5,8 +5,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/IrynaDesigna/Pricing-component-with-toggle)
-- Live Site URL: [Add live site URL here](https://IrynaDesigna.github.io/Pricing-component-with-toggle/)
+- [Solution URL: ](https://github.com/IrynaDesigna/Pricing-component-with-toggle)
+- [Live Site URL: ](https://IrynaDesigna.github.io/Pricing-component-with-toggle/)
 
 ### Built with
 
